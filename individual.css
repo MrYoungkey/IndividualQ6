@@ -1,0 +1,234 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  header ul li {
+    margin-right: 20px;
+  }
+  
+  header ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  /* Personal Information section */
+  #personal-info {
+    margin-bottom: 40px;
+  }
+  
+  #personal-info h2 {
+    margin-top: 0;
+  }
+  
+  #personal-info ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #personal-info ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Education section */
+  #education {
+    margin-bottom: 40px;
+  }
+  
+  #education h2 {
+    margin-top: 0;
+  }
+  
+  #education ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #education ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Work Experience section */
+  #work-exp {
+    margin-bottom: 40px;
+  }
+  
+  #work-exp h2 {
+    margin-top: 0;
+  }
+  
+  #work-exp ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #work-exp ul li {
+    margin-bottom: 10px;
+  }
+  
+  #work-exp ul li p:first-child {
+    font-weight: bold;
+  }
+  
+  /* Skills section */
+  #skills {
+    margin-bottom: 40px;
+  }
+  
+  #skills h2 {
+    margin-top: 0;
+  }
+  
+  #skills ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #skills ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Professional Course section */
+  #pro-course {
+    margin-bottom: 40px;
+  }
+  
+  #pro-course h2 {
+    margin-top: 0;
+  }
+  
+  #pro-course ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #pro-course ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Projects section */
+  #projects {
+    margin-bottom: 40px;
+  }
+  
+  #projects h2 {
+    margin-top: 0;
+  }
+  
+  #projects ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #projects ul li {
+    margin-bottom: 20px;
+  }
+  
+  #projects ul li p {
+    margin: 0;
+  }
+  
+  #projects ul li p:first-child {
+    font-weight: bold;
+  }
+  
+  /* Management Experience section */
+  #management-exp {
+    margin-bottom: 40px;
+  }
+  
+  #management-exp h2 {
+    margin-top: 0;
+  }
+  
+  #management-exp ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #management-exp ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Dependents section */
+  #dependents {
+    margin-bottom: 40px;
+  }
+  
+  #dependents h2 {
+    margin-top: 0;
+  }
+
+  #dependents ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #dependents ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Contact Us section */
+  #contact-us {
+    margin-bottom: 40px;
+  }
+  
+  #contact-us h2 {
+    margin-top: 0;
+  }
+  
+  #contact-us form {
+    margin-top: 20px;
+  }
+  
+  #contact-us label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  #contact-us input,
+  #contact-us textarea {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  #contact-us input[type="submit"] {
+    background-color: #333;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+  }
